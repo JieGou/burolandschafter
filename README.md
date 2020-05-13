@@ -18,3 +18,4 @@ The `1.1.0` code as-released was developed by one student with minimal existing 
 
 ![](results.jpg)
 
+## 主要功能为房间排布
